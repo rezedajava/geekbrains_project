@@ -1,1 +1,2 @@
 System.out.println(java_hello);
+System.out.println(java);
